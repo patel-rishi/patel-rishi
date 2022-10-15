@@ -27,3 +27,10 @@ Objective was to implement and compare different techniques for speckle noise re
 <li>Minimum cameras in a city</li>
 Objective was to reduce the number of cameras for effective city monitoring at street intersections. Python and C++ were used to construct the logic, and Pipes were used for inter-process communication. User will provide inputs in the form of edges and vertices and will get output as a list of vertices via MINISAT library, where cameras need to be installed. 
 </ol>
+
+<h3> Personal projects </h3>
+<ul>
+<li> <a href="https://github.com/patel-rishi/Discord-ChatBot"> Discord Chatbot </a> </li>
+<li> <a href="https://github.com/patel-rishi/Object-Identification"> Object Identification </a> </li>
+<li> <a href="https://github.com/patel-rishi/Insta_Bot"> Instagram bot </a> </li>
+</ul>
