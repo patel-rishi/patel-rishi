@@ -30,6 +30,7 @@ Objective was to reduce the number of cameras for effective city monitoring at s
 
 <h3> Personal projects </h3>
 <ul>
+<li> <a href="https://github.com/patel-rishi/Vertex-cover"> Vertex cover problem </a> </li>
 <li> <a href="https://github.com/patel-rishi/Discord-ChatBot"> Discord Chatbot </a> </li>
 <li> <a href="https://github.com/patel-rishi/Object-Identification"> Object Identification </a> </li>
 <li> <a href="https://github.com/patel-rishi/Insta_Bot"> Instagram bot </a> </li>
